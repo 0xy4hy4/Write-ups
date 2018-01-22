@@ -5,6 +5,9 @@
 <p><strong>Description</strong></p>
 
 <p><a href="https://felicity.iiit.ac.in/contest/breakin/findingwill/">https://felicity.iiit.ac.in/contest/breakin/findingwill/</a></p>
+<p>
+Will is lost in the Upside-Down and is stuck with the Demogorgon. El is looking for Will, when, she stumbles across a piece of code that Will wrote. The Demogorgon could not decipher the code and hence just left it lying around. El needs your help to find the 2 numbers that can get her the secret key which Will was trying to share. Can you help her?
+</p>
 
 <hr>
 
