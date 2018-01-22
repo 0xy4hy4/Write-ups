@@ -10,7 +10,7 @@
 
 <p><img src="https://raw.githubusercontent.com/0xy4hy4/Write-ups/master/2018/breakin-ctf-2018/web/findingwill/findingwill.png" alt="enter image description here" title=""></p>
 
-<p>The website shows a login form with a First Number and a Last Number. From the given source code we can assume that we need to put 2 hash that have the same value and  <br>
+<p>The website shows a login form with a First Number and a Last Number. From the given source code we can assume that we need to put 2 hashes that have the same value,  <br>
 In order to solve this challenge we could look for a md5 collision</p>
 
 <p>md5(‘240610708’) ‘s result is  0e462097431906509019562988736854</p>
