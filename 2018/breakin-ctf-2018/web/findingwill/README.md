@@ -21,10 +21,14 @@ In order to solve this challenge we could look for a md5 collision</p>
 
 <p>0 == 0 when compared with == they give us True </p>
 
-<p>but with this we will not be accessed because we have  <br>
-(<script type="math/tex" id="MathJax-Element-305">hash1 != </script>hash2) <br>
- by looking on :  <br>
-     <script type="math/tex" id="MathJax-Element-306">hash2 = strtr(</script>hash2, “abcd”, “0123”);</p>
+<p>but with this we will not be accessed because we have </p>
+
+<pre><code>($hash1 != $hash2)
+</code></pre>
+
+<p>by looking on : </p>
+
+<p><script type="math/tex" id="MathJax-Element-308">hash2 = strtr(</script>hash2, “abcd”, “0123”);</p>
 
 <p>i use this site to get some hashes who started by  <br>
 ae ;)  <br>
