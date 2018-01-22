@@ -28,7 +28,7 @@ In order to solve this challenge we could look for a md5 collision</p>
 
 <p>by looking on : </p>
 
-<p><script type="math/tex" id="MathJax-Element-308">hash2 = strtr(</script>hash2, “abcd”, “0123”);</p>
+<pre><code>$hash2 = strtr(</script>hash2, “abcd”, “0123”);</code></pre>
 
 <p>i use this site to get some hashes who started by  <br>
 ae ;)  <br>
